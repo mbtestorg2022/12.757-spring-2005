@@ -40,13 +40,377 @@ In most cases the readings are one or a few chapters extracted from a long monog
 {{< anchor "Readings_by_Session" >}}{{< /anchor >}}Readings by Session
 ----------------------------------------------------------------------
 
-| Ses # | THEMES | Topics | READINGS |
-| --- | --- | --- | --- |
-| {{< td-colspan 4 >}}**Part 1: What Is Science, and How Does It Work?**{{< /td-colspan >}} ||||
-| 1-3 | The Goals and Institutions of Natural Science | {{< h 3 >}}The Goals and Institutions of Natural Science{{< /h >}}   {{< br >}}{{< br >}} *   How does natural science differ from fine arts, mathematics or engineering and technology?{{< br >}}*   Varieties of science.{{< br >}}*   What is the character of the science you are pursuing? {{< br >}}{{< br >}}   {{< br >}}{{< h 3 >}}Scientific Knowledge{{< /h >}}   {{< br >}}{{< br >}} *   Discovery or justification?{{< br >}}*   Science as a social process.{{< br >}}*   What is the goal of your thesis research? {{< br >}}{{< br >}}   {{< br >}}{{< h 3 >}}Scientific Progress and Change{{< /h >}}   {{< br >}}{{< br >}} *   Is the history of science a steady progression or an occasional revolution?{{< br >}}*   Is there a change taking place in your field/discipline today?{{< br >}}*   Can you characterize the paradigm of your field? Of your thesis research? {{< br >}}{{< br >}}  | {{< h 3 >}}Session 1: Required{{< /h >}} {{< br >}}{{< br >}} Bronowski. 1995, pp. 5-11. {{< br >}}{{< br >}} Popper. In HP97. pp. 81-87. {{< br >}}{{< br >}} Bauer. In HP97. pp. 25-37. {{< br >}}{{< br >}} {{< h 3 >}}Session 1: Additional Readings{{< /h >}} {{< br >}}{{< br >}} M79. Preface and chapters 1-4. {{< br >}}{{< br >}} Popper. In Miller. 1985, pp. 25-32. {{< br >}}{{< br >}} {{< h 3 >}}Session 2: Required{{< /h >}} {{< br >}}{{< br >}} Ziman. In Klemke, et al. 1998, pp. 48-53. {{< br >}}{{< br >}} Popper. In Miller. 1985, pp. 163-179. {{< br >}}{{< br >}} C99. Introduction and chapter 1. {{< br >}}{{< br >}} {{< h 3 >}}Session 2: Additional Readings{{< /h >}} {{< br >}}{{< br >}} M79. Chapters 5-7. {{< br >}}{{< br >}} Root-Bernstein. In HP97. pp. 107-118. {{< br >}}{{< br >}} {{< h 3 >}}Session 3: Required{{< /h >}} {{< br >}}{{< br >}} Kuhn. 1996, chapter 9. {{< br >}}{{< br >}} C99. Chapter 8. {{< br >}}{{< br >}}  |
-| 4-8 | The Process of Scientific Research | {{< h 3 >}}Theory and Observation{{< /h >}}   {{< br >}}{{< br >}} *   What are the roles of theory and observation in science?{{< br >}}*   Are decisive experiments possible?{{< br >}}*   Can experiment proceed and succeed in the absence of a comprehensive theory? {{< br >}}{{< br >}}   {{< br >}}{{< h 3 >}}Elements of Scientific Method{{< /h >}}   {{< br >}}{{< br >}} *   What are the limitations characteristic of inductive and deductive methods?{{< br >}}*   Albert Einstein has been quoted as saying that scientific thinking is no more than good common sense.{{< br >}}*   Is that true of you and your thesis research, or is something more required?{{< br >}}*   What logical scheme characterizes your thesis research? {{< br >}}{{< br >}}   {{< br >}}{{< h 3 >}}The Practice of Scientific Method{{< /h >}}   {{< br >}}{{< br >}} *   When is a falsification (or a confirmation) interesting/important?{{< br >}}*   Is there a scientific method or not?{{< br >}}*   Which of the common NSF proposal errors are related to scientific method? {{< br >}}{{< br >}}   {{< br >}}{{< h 3 >}}Explanation in the Physical Sciences{{< /h >}}   {{< br >}}{{< br >}} *   What constitutes a useful scientific explanation?{{< br >}}*   When does (or must) explanation stop?{{< br >}}*   What would you mean if you were to say that you understood a phenomenon? {{< br >}}{{< br >}}   {{< br >}}{{< h 3 >}}Explanation in the Life Sciences{{< /h >}}   {{< br >}}{{< br >}} *   Is biology an autonomous science?{{< br >}}*   Can a teleological explanation ever be valid?{{< br >}}*   Explanation of complex events, with no clear laws. {{< br >}}{{< br >}}  | {{< h 3 >}}Session 4: Required{{< /h >}} {{< br >}}{{< br >}} C99. Chapters 2, 3, and 13. {{< br >}}{{< br >}} Collins and Pinch. In HP97. pp. 37-45. {{< br >}}{{< br >}} {{< h 3 >}}Session 4: Additional Readings{{< /h >}} {{< br >}}{{< br >}} M79. Chapter 9. {{< br >}}{{< br >}} Scudder. In HP97. pp. 143-146. {{< br >}}{{< br >}} {{< h 3 >}}Session 5: Required{{< /h >}} {{< br >}}{{< br >}} C99. Chapters 4 and 5. {{< br >}}{{< br >}} M79. Chapter 11. {{< br >}}{{< br >}} {{< h 3 >}}Session 6: Required{{< /h >}} {{< br >}}{{< br >}} C99. Chapters 6,7,10, and 11. {{< br >}}{{< br >}} Feyerabend. In Zucker. pp. 186-189. Generic Proposal Problems, NSF. {{< br >}}{{< br >}} {{< h 3 >}}Session 7: Required{{< /h >}} {{< br >}}{{< br >}} Salmon. 1992, pp. 7-41. {{< br >}}{{< br >}} Weinberg. In _Best American Science Writing_. 2002, pp. 258-272. {{< br >}}{{< br >}} {{< h 3 >}}Session 8: Required{{< /h >}} {{< br >}}{{< br >}} Mayr, E. _Toward a New Philosophy of Biology_. 1988, essays 1 and 2, pp. 8-37. {{< br >}}{{< br >}} Jenkins, S. H. _How Science Works_? 2004, chapter 4, pp. 53-72. {{< br >}}{{< br >}}  |
-| 9-10 | Ethics of Scientific Research | {{< h 3 >}}Free and Open Communication?{{< /h >}}   {{< br >}}{{< br >}} *   What are the obligations of a scientist?{{< br >}}*   To whom or to what do you owe your highest loyalty?{{< br >}}*   What constitutes intellectual property?{{< br >}}*   When is it appropriate to withhold data and other information? {{< br >}}{{< br >}}   {{< br >}}{{< h 3 >}}The Reward System in Science{{< /h >}}   {{< br >}}{{< br >}} *   What are society's motives for sponsoring scientific research?{{< br >}}*   Are these consistent with your personal motives for being a scientist?{{< br >}}*   How do you expect to be rewarded for your efforts as a scientist?{{< br >}}*   On what basis do we choose or agree to become a coauthor?{{< br >}}*   Are science ethics undergoing a change? {{< br >}}{{< br >}}  | {{< h 3 >}}Session 9: Required{{< /h >}} {{< br >}}{{< br >}} NAS95. pp. 1-12. {{< br >}}{{< br >}} M79. Chapter 6. {{< br >}}{{< br >}} Sayre. In HP97. pp. 124-131. {{< br >}}{{< br >}} {{< h 3 >}}Session 10: Required{{< /h >}} {{< br >}}{{< br >}} NAS95. pp. 12-28. {{< br >}}{{< br >}} Bishop. 1984, chapter 6. {{< br >}}{{< br >}} Woodward and Goodstein. 1996. {{< br >}}{{< br >}}  |
-| {{< td-colspan 4 >}}**Part 2: Communication**{{< /td-colspan >}} ||||
-| 11 | Scientific Publication | {{< h 3 >}}Scientific Publication{{< /h >}}   {{< br >}}{{< br >}} *   What is the role of written communication?  {{< br >}}    What constitutes 'scientific publication'?{{< br >}}*   How much should we publish and when is a research project at the right stage for publication?{{< br >}}*   How is a paper judged by referees and editors?{{< br >}}*   What constitutes a conflict of interest and what should you do if you have one?{{< br >}}*   What makes a good scientific paper?  {{< br >}}    What are your favorite scientific papers, and most of all, why? {{< br >}}{{< br >}}  | {{< h 3 >}}Session 11: Required{{< /h >}} {{< br >}}{{< br >}} M79. Chapter 8. {{< br >}}{{< br >}} Dodd. 1986, chapter 1. {{< br >}}{{< br >}} Medawar. 1990, pp. 228-233. {{< br >}}{{< br >}}  |
-| 12 | Oral Communication | {{< h 3 >}}Oral Communication{{< /h >}}   {{< br >}}{{< br >}} *   What is the role of seminars?{{< br >}}*   In what ways might the content of a seminar be different from that of a scientific paper?{{< br >}}*   How do you plan and prepare for a seminar?{{< br >}}*   What qualities make for a good seminar? {{< br >}}{{< br >}}  | {{< h 3 >}}Session 12: Required{{< /h >}} {{< br >}}{{< br >}} M79. Chapter 8. {{< br >}}{{< br >}} Anholt. 1994, chapter 1 and 2. {{< br >}}{{< br >}}  |
-| 13-16 | The Practice of Scientific Communication |  {{< br >}}{{< br >}} In the remainder of the semester the participants will have a chance to give a short oral report of their thesis research (or of a paper they find interesting) to a critical but sympathetic audience, their classmates.  {{< br >}}Each class member will give the presenter a written evaluation. {{< br >}}{{< br >}} Our goal in these short seminars is to emphasize the beginning and the end  {{< br >}}parts of the research story, while largely omitting the technical details  {{< br >}}of the middle (which are, of course, crucially important but you deal with that at length elsewhere).  {{< br >}}This seminar will have been successful if the participants find that they are even slightly more comfortable writing and talking about the goals,  {{< br >}}the logical structure and the interpretation of their research.  {{< br >}}Are the goals, as you write them down now, any different than at the time of the first class, Question 1(a)? {{< br >}}{{< br >}}  |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+Ses #
+{{< thclose >}}
+{{< thopen >}}
+THEMES
+{{< thclose >}}
+{{< thopen >}}
+Topics
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Part 1: What Is Science, and How Does It Work?**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1-3
+{{< tdclose >}}
+{{< tdopen >}}
+The Goals and Institutions of Natural Science
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### The Goals and Institutions of Natural Science
+
+  
+
+*   How does natural science differ from fine arts, mathematics or engineering and technology?
+*   Varieties of science.
+*   What is the character of the science you are pursuing?
+
+  
+
+### Scientific Knowledge
+
+  
+
+*   Discovery or justification?
+*   Science as a social process.
+*   What is the goal of your thesis research?
+
+  
+
+### Scientific Progress and Change
+
+  
+
+*   Is the history of science a steady progression or an occasional revolution?
+*   Is there a change taking place in your field/discipline today?
+*   Can you characterize the paradigm of your field? Of your thesis research?
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Session 1: Required
+
+Bronowski. 1995, pp. 5-11.
+
+Popper. In HP97. pp. 81-87.
+
+Bauer. In HP97. pp. 25-37.
+
+### Session 1: Additional Readings
+
+M79. Preface and chapters 1-4.
+
+Popper. In Miller. 1985, pp. 25-32.
+
+### Session 2: Required
+
+Ziman. In Klemke, et al. 1998, pp. 48-53.
+
+Popper. In Miller. 1985, pp. 163-179.
+
+C99. Introduction and chapter 1.
+
+### Session 2: Additional Readings
+
+M79. Chapters 5-7.
+
+Root-Bernstein. In HP97. pp. 107-118.
+
+### Session 3: Required
+
+Kuhn. 1996, chapter 9.
+
+C99. Chapter 8.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4-8
+{{< tdclose >}}
+{{< tdopen >}}
+The Process of Scientific Research
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Theory and Observation
+
+  
+
+*   What are the roles of theory and observation in science?
+*   Are decisive experiments possible?
+*   Can experiment proceed and succeed in the absence of a comprehensive theory?
+
+  
+
+### Elements of Scientific Method
+
+  
+
+*   What are the limitations characteristic of inductive and deductive methods?
+*   Albert Einstein has been quoted as saying that scientific thinking is no more than good common sense.
+*   Is that true of you and your thesis research, or is something more required?
+*   What logical scheme characterizes your thesis research?
+
+  
+
+### The Practice of Scientific Method
+
+  
+
+*   When is a falsification (or a confirmation) interesting/important?
+*   Is there a scientific method or not?
+*   Which of the common NSF proposal errors are related to scientific method?
+
+  
+
+### Explanation in the Physical Sciences
+
+  
+
+*   What constitutes a useful scientific explanation?
+*   When does (or must) explanation stop?
+*   What would you mean if you were to say that you understood a phenomenon?
+
+  
+
+### Explanation in the Life Sciences
+
+  
+
+*   Is biology an autonomous science?
+*   Can a teleological explanation ever be valid?
+*   Explanation of complex events, with no clear laws.
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Session 4: Required
+
+C99. Chapters 2, 3, and 13.
+
+Collins and Pinch. In HP97. pp. 37-45.
+
+### Session 4: Additional Readings
+
+M79. Chapter 9.
+
+Scudder. In HP97. pp. 143-146.
+
+### Session 5: Required
+
+C99. Chapters 4 and 5.
+
+M79. Chapter 11.
+
+### Session 6: Required
+
+C99. Chapters 6,7,10, and 11.
+
+Feyerabend. In Zucker. pp. 186-189. Generic Proposal Problems, NSF.
+
+### Session 7: Required
+
+Salmon. 1992, pp. 7-41.
+
+Weinberg. In _Best American Science Writing_. 2002, pp. 258-272.
+
+### Session 8: Required
+
+Mayr, E. _Toward a New Philosophy of Biology_. 1988, essays 1 and 2, pp. 8-37.
+
+Jenkins, S. H. _How Science Works_? 2004, chapter 4, pp. 53-72.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9-10
+{{< tdclose >}}
+{{< tdopen >}}
+Ethics of Scientific Research
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Free and Open Communication?
+
+  
+
+*   What are the obligations of a scientist?
+*   To whom or to what do you owe your highest loyalty?
+*   What constitutes intellectual property?
+*   When is it appropriate to withhold data and other information?
+
+  
+
+### The Reward System in Science
+
+  
+
+*   What are society's motives for sponsoring scientific research?
+*   Are these consistent with your personal motives for being a scientist?
+*   How do you expect to be rewarded for your efforts as a scientist?
+*   On what basis do we choose or agree to become a coauthor?
+*   Are science ethics undergoing a change?
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Session 9: Required
+
+NAS95. pp. 1-12.
+
+M79. Chapter 6.
+
+Sayre. In HP97. pp. 124-131.
+
+### Session 10: Required
+
+NAS95. pp. 12-28.
+
+Bishop. 1984, chapter 6.
+
+Woodward and Goodstein. 1996.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen colspan="4" >}}
+**Part 2: Communication**
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Scientific Publication
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Scientific Publication
+
+  
+
+*   What is the role of written communication?  
+    What constitutes 'scientific publication'?
+*   How much should we publish and when is a research project at the right stage for publication?
+*   How is a paper judged by referees and editors?
+*   What constitutes a conflict of interest and what should you do if you have one?
+*   What makes a good scientific paper?  
+    What are your favorite scientific papers, and most of all, why?
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Session 11: Required
+
+M79. Chapter 8.
+
+Dodd. 1986, chapter 1.
+
+Medawar. 1990, pp. 228-233.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Oral Communication
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Oral Communication
+
+  
+
+*   What is the role of seminars?
+*   In what ways might the content of a seminar be different from that of a scientific paper?
+*   How do you plan and prepare for a seminar?
+*   What qualities make for a good seminar?
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+### Session 12: Required
+
+M79. Chapter 8.
+
+Anholt. 1994, chapter 1 and 2.
+
+
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13-16
+{{< tdclose >}}
+{{< tdopen >}}
+The Practice of Scientific Communication
+{{< tdclose >}}
+{{< tdopen >}}
+
+
+In the remainder of the semester the participants will have a chance to give a short oral report of their thesis research (or of a paper they find interesting) to a critical but sympathetic audience, their classmates.  
+Each class member will give the presenter a written evaluation.
+
+Our goal in these short seminars is to emphasize the beginning and the end  
+parts of the research story, while largely omitting the technical details  
+of the middle (which are, of course, crucially important but you deal with that at length elsewhere).  
+This seminar will have been successful if the participants find that they are even slightly more comfortable writing and talking about the goals,  
+the logical structure and the interpretation of their research.  
+Are the goals, as you write them down now, any different than at the time of the first class, Question 1(a)?
+
+
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
